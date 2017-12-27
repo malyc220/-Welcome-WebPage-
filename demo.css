@@ -1,0 +1,37 @@
+body{
+	padding-top: 20px;
+	background-color: black;
+	/*list-style-type: hiragana;*/
+
+}
+.retraso{
+	-webkit-animation-delay: 0.8s;
+	-moz-animation-delay: 0.8s;
+	animation-delay: 0.8s;
+}
+img{
+	max-width: 100%;
+
+}
+.amarillo{
+	color: yellow;
+	font-size: 100px;
+}
+
+.derecha{
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+.izquierda{
+	position: fixed;
+	bottom: 0;
+	left: : 0;
+}
+.Bungee{
+	font-family: 'Bungee Shade', cursive;
+}
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
